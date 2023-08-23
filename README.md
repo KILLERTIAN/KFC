@@ -1,12 +1,12 @@
 # KFC
 
-This project is made from the help of a video tutorial from YouTube 
+This project is made with the help of a video tutorial on YouTube 
 
-Video Link :- https://youtu.be/y6cCpN29vJE
+Video Link:- https://youtu.be/y6cCpN29vJE
 
-Channel Link :- https://www.youtube.com/c/OnlineTutorials4Designers
+Channel Link:- https://www.youtube.com/c/OnlineTutorials4Designers
 
-Webpage Link :- https://killertian.github.io/KFC/
+Webpage Link:- https://killertian.github.io/KFC/
 
 Preview of the Webpage
 
